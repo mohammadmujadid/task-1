@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            table example
+        </title>
+    </head>
+    <body bgcolor="sliver">
+        <table border="2px" align="center" bgcolor="yellow" cellpadding="15px" cellspacing="20px">
+            <thead>
+                <tr>
+                    <th rowspan="2">id</th>
+                    <th rowspan="2">name</th>
+                    <th colspan="2">fee</th>
+                    <th colspan="2">type</th>
+                    <th colspan="3">timings</code></th>
+                    <th rowspan="2">trainer</th>
+                    <th colspan="2">duration</th>
+                    <th rowspan="2">about course</th>
+
+                </tr>
+                <tr>
+                    <th>fast</th>
+                    <th>
+                        normal
+                    </th>
+                <th>online</th>
+                <th>offline</th>
+                <th>morning</th>
+                <th>afternoon</th>
+                <th>evening</th>
+                <th>fast</th>
+                <th>normal</th>
+                </tr>
+                
+            </thead>
+            <tbody>
+                <tr>
+                    <td>co1</td>
+                    <td>java</td>
+                    <td>10k</td>
+                    <td>8k</td>
+                    <td>yes</td>
+                    <td>yes</td>
+                    <td>9am
+
+                    </td>
+                    <td>2pm</td>
+                    <td>6pm</td>
+                    
+                <td>
+                        <img src="java.png" height="30px" width="30px">
+                 </td>
+                
+
+                    <td>45</td>
+                    <td>60</td>
+                    <td>about java</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
