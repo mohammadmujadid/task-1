@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>task2</title>
+</head>
+
+<body>
+    <header>
+
+        <center>
+            <a href="https://www.360digrii.com/" target="_blank">
+                <img src="wallpaper2.png" heaight="90px" width="90px"></a>
+        </center>
+
+    </header>
+    <hr>
+    <font color="orange">
+        <h2>
+            <u>Follow us:</u>
+        </h2>
+    </font>
+    <a href="https://www.facebook.com/360digrii" target="_blank">
+        <img src="facebook.png" height="90px" width="90px">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    <a href="https://twitter.com/360digrii" target="_blank">
+        <img src="twitter.png" height="90px" width="90px">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    <a href="https://www.linkedin.com/in/360digrii" target="_blank">
+        <img src="linkedin.png" height="90px" width="90px">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/in/360digrii" target="_blank">
+        <img src="instagram.jpg" height="90px" width="90px">
+    </a>
+
+    <hr>
+    <footer>
+        <font color="orange">
+        <h2>
+        <u>
+            OurClients :
+        </u></h2></font>
+
+        <a href="https://www.hcltech.com/" target="_blank">hcltech</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.tcs.com/" target="_blank">tcs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.ibm.com/" target="_blank">Ibm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.oracle.com/" target="_blank">oracle</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </footer>
+</body>
+
+</html>
