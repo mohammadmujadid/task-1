@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+
+    </head>
+    <body>
+        <form action="html foams" name"foam 0" method="post"> 
+            <table cellspacing="5px" bgcolor="red" >
+                <caption>html foams</caption>
+                <tr>
+                    <td>
+                        <label for="f name">first name</label>
+                        </td>
+                        <td>
+                        <input type="text" name="f name" id="f name">
+                    </td>
+                </tr>>
+                <tr>
+                    <td>
+                        <label >last name</label>
+                    </td>
+                    <td>
+                        <input type="text">
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <label for="dob">birthday</label>
+                    </td>
+                    <td>
+                        <input type="date">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label >email id</label>
+                        </td>
+                        <td>
+                        <input type="mail">
+                        </td>
+        
+                </tr>
+                <tr>
+                    <td>
+                        <label >mobile numaber</label>
+                        </td>
+                        <td>
+                        <input type="number">
+                    </td>
+                </tr><br><br>
+                <tr>
+                    <td>
+                    <label for="radio"></label>
+                    <input type="submit">
+                    <label for="radio"></label>
+                    <input type="reset">
+                    </td>
+                </tr>
+                
+            </table>
+        </form>
+        
+    </body>
+</html>
