@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>Registration foam</head>
+    <body>
+        <form action="Registration foam" method="post">
+
+            <table cellspacing="5px" bgcolor="yellow" cellpaddind="5px">
+                <tr>
+                    <td>
+                        <label for="name">First name</label>
+                        <br>
+                        <input type="text" name="" id="nmae">
+                    </td>
+                    <td>
+                        <label for="name">Last name</label>
+                        <br>
+                        <input type="text" name="" id="name">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="dob">Birthday</label>
+                        <br>
+                        <input type="date">
+                    </td>
+                    <td>
+                        <label for="gender">Gender</label>
+                        <br>
+                        <input type="radio" name="gender" id="male"><label for="gender">male</label>
+                        <input type="radio" name="gender" id="female"><label for="gender">female</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="mail">Email</label>
+                        <br>
+                        <input type="mail">
+
+                    </td>
+                    <td>
+                        <label for="mobil">phone number</label>
+                        <br>
+                        <input type="number">
+                    </td>
+                </tr>
+                <tr colspan="2">
+               <td>
+                    <label for="subjet">subjet</label>
+                    <br>
+                    <select name="subjet" id="subjet" style="width: 100%;">
+                    <option selected">choose option </option>
+                    <option value="hindi">Hindi</option>
+                    <option value="english">English</option>
+                    <option value="maths">maths</option>
+                    <option value="science">science</option>
+                    <option value="drawing">drawing</option>
+
+                    </select>
+                </td>
+                    
+                </tr><br><br>
+                 <tr>
+                    <td>
+                        <label for="radio"></label>
+                        <input type="submit">
+                    </td>
+                 </tr>
+
+            </table>
+        </form>
+    </body>
+</html>
