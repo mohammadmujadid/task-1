@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Form 3</title>
+</head>
+
+<body bgcolor="blue">
+  <form action="signup" name="form3" method="post" >
+    
+    <table align="center" cellspacing="5px" bgcolor="green" cellpadding="5px">
+      <caption>
+        <h1>Sign Up</h1>
+      </caption>
+      <tr>
+        <td><label for="fname" >First Name :</label></td>
+        <td><input type="text" id="fname" placeholder="Enter First Name"></td>
+      </tr>
+      <tr>
+        <td><label for="lname" >Last Name :</label></td>
+        <td><input type="text" id="lname" placeholder="Enter Last Name"></td>
+      </tr>
+      <tr>
+        <td><label for="sname">Screen Name :</label></td>
+        <td><input type="text" id="sname" placeholder="Enter Screen Name"></td>
+      </tr>
+      <tr>
+        <td><label for="dob">Date of Birth :</label></td>
+        <td>
+          <input type="date" id="dob" name="dob">
+        </td>
+      </tr>
+      <tr>
+        <td><label for="gender">Gender :</label></td>
+        <td>
+          <input type="radio" name="gender" id="male"><label for="male">Male</label>
+          <input type="radio" name="gender" id="female"><label for="female">Female</label>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="country">Country : </label></td>
+        <td>
+          <select name="country" id="country">
+            <option value="ind">INDIA</option>
+            <option value="usa">USA</option>
+            <option value="rus">RUSSIA</option>
+            <option value="france">FRANCE</option>
+            <option value="china">CHINA</option>
+            <option value="aus">AUSTRALIA</option>
+            <option value="nz">NEW ZEALAND</option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="email">E-mail :</label></td>
+        <td><input type="email" id="email" placeholder="Enter Email"></td>
+      </tr>
+      <tr>
+        <td><label for="mobile">Phone :</label></td>
+        <td><input type="number" id="mobile" placeholder="Enter Phone Number"></td>
+      </tr>
+      <tr>
+        <td><label for="pass">Password :</label></td>
+        <td><input type="password" name="password" id="pass" placeholder="Enter Password"></td>
+      </tr>
+      <tr>
+        <td><label for="c-pass">Confirm Password :</label></td>
+        <td><input type="password" name="cnf-password" id="c-pass" placeholder="Enter Password"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><input type="checkbox" name="agreement" id="agreement">
+          <label for="agreement">I agree to the Terms of Use</label>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>
+          <input type="submit">
+          <input type="reset" value="Cencel">
+        </td>
+      </tr>
+    </table>
+    
+  </form>
+  
+</body>
+
+</html>
