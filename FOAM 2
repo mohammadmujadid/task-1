@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head> <center>Registration foam </center></head>
+    <body>
+    <form action="registration foam" method="post">
+        <table align="center" cellpadding="5px" bgcolor="red" cellspacing="5px">
+            <tr>
+                <td>
+                    <label for="name">first name</label>
+                </td>
+                <td>
+                    <input type="text" name="nmae" id="name" placeholder="enter the name">
+                    
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for"name">last name</label>
+                    </td>
+                    <td>
+                    <input type="text" name="nmae" id="name" placeholder="enter the name">
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    <label for="name">nick name</label>
+                </td>
+                <td>
+                    <input type="text"placeholder="enter the name">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="mail">email</label>
+                    </td>
+                    <td>
+                    <input type="mail">
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="number">password</label>
+            </td>
+            <td>
+                <input type="number">
+            </td>
+        </tr>
+           <tr>
+            <td>
+                <label for="dob">date of birth</label>
+                
+                </td>
+                <td>
+                <input type="date" name="dob" id="dob">
+
+            </td>
+           </tr>
+           <tr>
+            <td>
+                <label for="gender">gender</label>
+                </td>
+                <td>
+                <input type="radio" name="gender" id="male"><label for="gender">male</label>
+                <input type="radio" name="gender" id="female"><label for="gender">female</label>
+                <input type="radio" name="gender" id="other"><label for="GENDER">other</label>
+          </td>
+           </tr>
+           <tr>
+            <td>
+                <label for="number">mobil</label>
+            </td>
+            <td>
+                <input type="number">
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label >address</label>
+                </td>
+                <td>
+                <input type="text">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="radio">submit</label>
+                <input type="radio"name=button id="submit">
+                <label for="radio">reset</label>
+                <input type="radio"name=button id="reset">
+            </td>
+        </tr>
+
+        </table>
+    </form>
+    </body>
+</html>
