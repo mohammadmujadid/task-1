@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Branches Page</title>
+</head>
+
+<body>
+    <hr>
+    <header>
+        <h1>
+            <center>
+                <font size="50px" color="orange">Apollo Hospitals</font>
+            </center>
+        </h1>
+
+        <p align="center">
+            <a href="Home.html">About Apollo</a> &nbsp; | &nbsp;
+            <a href="#">Apollo Branches</a> &nbsp; | &nbsp;
+            <a href="Services.html">Apollo Services</a> &nbsp; | &nbsp;
+            <a href="Contact.html">Apollo Contact</a> &nbsp; | &nbsp;
+            <a href="Doctors.html">Our Doctors</a> &nbsp; | &nbsp;
+            <a href="Labs.html">Our Labs</a> &nbsp; | &nbsp;
+            <a href="Doctor sign up.html">Doctor Registration</a> &nbsp; | &nbsp;
+            <a href="Doctor login.html">Doctor Login</a> &nbsp; | &nbsp;
+            <a href="patientsignup.html">Patient Registration</a> &nbsp; | &nbsp;
+            <a href="patientlogin.html">Patient Login</a>
+        </p>
+    </header>
+    <hr>
+    <p>
+    <ol>
+        <li>
+            Jubilee Hills
+        </li>
+        <li>
+            Secunderabad
+        </li>
+        <li>
+            Hyderguda
+        </li>
+    </ol>
+    </p>
+    <br><br><br><br><br><br>
+    <hr>
+    <footer>
+        <center>
+            <font size="3px" color="brown">Copyright@Sai Srija</font>
+        </center>
+    </footer>
+    <hr>
+</body>
+
+</html>
